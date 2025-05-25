@@ -1,6 +1,8 @@
 # 🔒 Password Generator in Python
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+
 This project is a simple Python-based password generator that creates strong, customizable passwords for any account. The script guarantees password complexity and saves each password with its account name to a local text file.
-A simple and secure command-line password generator that creates strong, random passwords for your online accounts and saves them to a local file.
 
 ## 🚀 Features
   - **Custom Length:** Specify your desired password length (minimum 4 characters).
